@@ -1,4 +1,8 @@
 _repo: Mexico-Aztec-Spanish-and-Republican-v-2-2-A-Historical-Geographical-Political-Statistical-and__49538
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49538-h/images/cover.jpg
 creator:
   author:
     agent_name: Mayer, Brantz
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25637
     wikipedia: https://en.wikipedia.org/wiki/Brantz_Mayer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49538#Mexico-Aztec-Spanish-and-Republican-v-2-2-A-Historical-Geographical-Political-Statistical-and_
 gutenberg_issued: '2015-07-28'
 gutenberg_type: Text
 identifiers:
